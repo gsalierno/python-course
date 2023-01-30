@@ -2,6 +2,8 @@
 
 ![alt text](https://codeandhack.b-cdn.net/wp-content/uploads/2021/02/Python-programming-language-news-and-stories.jpg)
 
+*Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered.* - Guido van Rossum, August 1996
+
 ## Software - Tutorials - Documentation
 
 * [Python Development Kit](https://www.python.org/downloads/)
