@@ -9,7 +9,7 @@
 * [Anaconda](https://www.anaconda.com/products/distribution)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 
-##Exercises
+## Exercises
 
 
 ## Books
