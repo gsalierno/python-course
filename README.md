@@ -19,12 +19,12 @@
 [M1] Basics
 
 * [Getting started with the Python environment plus Anaconda](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/python_getting_started.pdf)
-* Variables, constants Numeric, strings, boolean literals
-* Flow control statements
-* Functions, parameter passing
-* Decorators
-* Exceptions
-* I/O Basics
+* [Variables, constants Numeric, strings, boolean literals](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
+* [Flow control statements](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
+* [Functions, parameter passing](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
+* [Decorators](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
+* [Exceptions](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
+* [I/O Basics](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/01%20-%20Python%20Basics.ipynb)
 
 [M2] Data Structures
 
