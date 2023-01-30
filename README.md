@@ -18,7 +18,7 @@
 
 [M1] Basics
 
-* Getting started with the Python environment plus Anaconda 
+* [Getting started with the Python environment plus Anaconda](https://github.com/gsalierno/python-course/blob/main/python-resources/M1/python_getting_started.pdf)
 * Variables, constants Numeric, strings, boolean literals
 * Flow control statements
 * Functions, parameter passing
