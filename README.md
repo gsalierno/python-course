@@ -12,3 +12,29 @@
 
 ## Books
 * [Think Python - How to think like a Computer Scientist](https://github.com/gsalierno/python-course/blob/main/python-books/Think%20Python.pdf)
+
+
+##Agenda
+
+[M1] Basics
+
+* Getting started with the Python environment plus Anaconda 
+* Variables, constants Numeric, strings, boolean literals
+* Flow control statements
+* Functions, parameter passing
+* Decorators
+* Exceptions
+* I/O Basics
+
+[M2] Data Structures
+
+* Iterable, Iterator, Generator
+* List, Tuple, Set, Dictionary
+* Generator, List, Dictionary Comprehension
+* Itertools
+[M3] Object Oriented Programming
+
+* Classes, objects, informal interfaces
+* Getters, setters, properties
+* Encapsulation, inheritance, polymorphism
+* Modules and packages
