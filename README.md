@@ -10,4 +10,4 @@
 
 
 ## Books
-* [Think Python - How to think like a Computer Scientist](https://www.jetbrains.com/pycharm/)
+* [Think Python - How to think like a Computer Scientist](https://github.com/gsalierno/python-course/blob/main/python-books/Think%20Python.pdf)
