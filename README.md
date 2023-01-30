@@ -1,6 +1,6 @@
 # Python Course 2023 - Learn Python!
 
-![alt text](https://www.analyticsinsight.net/wp-content/uploads/2022/02/Top-5-Python-Projects-for-Beginners-to-Look-Out-for-in-2022.jpg)
+![alt text](https://codeandhack.b-cdn.net/wp-content/uploads/2021/02/Python-programming-language-news-and-stories.jpg)
 
 ## Software - Tutorials - Exercises
 
