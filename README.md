@@ -10,7 +10,7 @@
 * [Python Documentation](https://docs.python.org/3/tutorial/)
 * [Anaconda](https://www.anaconda.com/products/distribution)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
-
+* [Sublime Text](https://www.sublimetext.com)
 ## Exercises
 
 
